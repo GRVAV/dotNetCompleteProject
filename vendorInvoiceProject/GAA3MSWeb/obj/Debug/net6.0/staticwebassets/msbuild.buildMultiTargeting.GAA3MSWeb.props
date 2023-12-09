@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GAA3MSWeb.props" />
+</Project>
